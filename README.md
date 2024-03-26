@@ -1,7 +1,7 @@
 # Welcome to [Your Name]'s GitHub Profile!
 
 Hi there! Welcome to my GitHub profile. I'm passionate about [your interests and areas of expertise]. Here you'll find a collection of projects I've worked on, ranging from [mention specific types of projects, e.g., web development, machine learning, etc.].
-:javascript :css :html
+
 ## About Me
 
 I'm a [your profession or role], currently based in [your location]. I have a background in [mention your educational background or any relevant experience]. My main areas of interest include [list your main interests or specialties].
